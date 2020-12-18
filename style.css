@@ -1,0 +1,9 @@
+body{
+    text-align: center;
+    background-color: aqua;
+}
+.img{
+   padding-top: 70px;
+    height: 300px;
+    width: 500px;
+}
